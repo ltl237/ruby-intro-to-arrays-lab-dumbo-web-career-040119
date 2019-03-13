@@ -3,3 +3,4 @@ def instanstiate_new_array
 end
 instanstiate_new_array
 instanstiate_new_array
+instantiate_new_array
