@@ -20,7 +20,7 @@ def last_element(array)
 end
 
 def first_element_with_array_methods(array)
-  return array.unshift()
+  return array.shift()
 end
 
 def last_element_with_array_methods(array)
